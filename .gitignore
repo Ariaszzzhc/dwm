@@ -1,0 +1,8 @@
+*.rej
+*.orig
+.vscode
+.vim
+.idea
+*.o
+config.h
+dwm
